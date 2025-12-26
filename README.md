@@ -1,4 +1,3 @@
-# lung-colon-cancer-classification
 # Lung and Colon Cancer Classification using Deep Feature Fusion
 
 This project focuses on multi-class classification of lung and colon cancer histopathological images using deep learning–based feature extraction, feature selection, and an MLP classifier.
